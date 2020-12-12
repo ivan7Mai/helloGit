@@ -11,5 +11,6 @@ public class Main {
         System.out.println("master update");
         System.out.println("dev update");
         System.out.println("online update");
+        System.out.println("cloner submit");
     }
 }
