@@ -8,5 +8,6 @@ public class Main {
         System.out.println("Hello Git!!!");
         System.out.println("update 1");
         System.out.println("dev branch");
+        System.out.println("master update");
     }
 }
