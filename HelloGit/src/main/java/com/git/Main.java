@@ -9,5 +9,6 @@ public class Main {
         System.out.println("update 1");
         System.out.println("dev branch");
         System.out.println("master update");
+        System.out.println("dev update");
     }
 }
